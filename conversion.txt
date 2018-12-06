@@ -1,0 +1,7 @@
+Conversions
+- Rands to Cents
+   R10 to cents
+   Cents = 1 * 100
+   Answer = 10 * Cents 
+- KM to m
+- Litre to ml
